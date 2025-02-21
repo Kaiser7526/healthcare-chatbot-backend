@@ -1,0 +1,49 @@
+Disease,Symptom1,Symptom2,Symptom3,Symptom4
+Flu,Fever,Cough,Headache,Fatigue
+Common Cold,Sneezing,Cough,Sore Throat,Runny Nose
+COVID-19,Fever,Cough,Shortness of Breath,Fatigue
+Pneumonia,Chest Pain,Cough,Fever,Shortness of Breath
+Bronchitis,Cough,Fatigue,Chest Discomfort,Sore Throat
+Asthma,Shortness of Breath,Wheezing,Cough,Chest Tightness
+Migraine,Headache,Nausea,Light Sensitivity,Dizziness
+Hypertension,Headache,Dizziness,Blurred Vision,Fatigue
+Heart Attack,Chest Pain,Shortness of Breath,Nausea,Sweating
+Diabetes,Increased Thirst,Frequent Urination,Weight Loss,Fatigue
+Hyperthyroidism,Weight Loss,Increased Appetite,Rapid Heart Rate,Anxiety
+Hypothyroidism,Weight Gain,Fatigue,Dry Skin,Cold Sensitivity
+Gastroenteritis,Vomiting,Diarrhea,Abdominal Pain,Fever
+Food Poisoning,Nausea,Diarrhea,Stomach Pain,Vomiting
+Irritable Bowel Syndrome,Abdominal Pain,Bloating,Diarrhea,Constipation
+Urinary Tract Infection,Burning Urination,Frequent Urination,Pelvic Pain,Fever
+Kidney Infection,Back Pain,Fever,Painful Urination,Nausea
+Gallstones,Abdominal Pain,Nausea,Indigestion,Jaundice
+Hepatitis,Jaundice,Fatigue,Abdominal Pain,Nausea
+Liver Disease,Jaundice,Swelling in Legs,Fatigue,Abdominal Pain
+Dengue Fever,High Fever,Severe Headache,Joint Pain,Skin Rash
+Malaria,High Fever,Chills,Sweating,Muscle Pain
+Tuberculosis,Cough,Chest Pain,Fatigue,Weight Loss
+Anemia,Fatigue,Pale Skin,Shortness of Breath,Dizziness
+Leukemia,Fatigue,Frequent Infections,Weight Loss,Bruising
+Lung Cancer,Chronic Cough,Chest Pain,Weight Loss,Shortness of Breath
+Skin Cancer,Unusual Mole,Skin Lesion,Itching,Bleeding
+Breast Cancer,Breast Lump,Nipple Discharge,Pain in Breast,Swelling
+Prostate Cancer,Frequent Urination,Weak Urine Stream,Blood in Urine,Pelvic Pain
+Osteoarthritis,Joint Pain,Stiffness,Swelling,Limited Movement
+Rheumatoid Arthritis,Joint Pain,Swelling,Fatigue,Stiffness
+Psoriasis,Red Patches,Itching,Scaly Skin,Burning Sensation
+Eczema,Itchy Skin,Redness,Dry Skin,Rash
+Allergic Rhinitis,Sneezing,Runny Nose,Itchy Eyes,Nasal Congestion
+Sinusitis,Facial Pain,Nasal Congestion,Headache,Cough
+Vertigo,Dizziness,Loss of Balance,Nausea,Ringing in Ears
+Epilepsy,Seizures,Loss of Consciousness,Muscle Stiffness,Confusion
+Parkinson’s Disease,Tremors,Stiff Muscles,Slow Movement,Balance Issues
+Alzheimer’s Disease,Memory Loss,Confusion,Difficulty Speaking,Personality Changes
+Stroke,Sudden Weakness,Slurred Speech,Loss of Balance,Severe Headache
+Depression,Low Mood,Fatigue,Loss of Interest,Suicidal Thoughts
+Anxiety Disorder,Excessive Worry,Restlessness,Rapid Heart Rate,Sweating
+Bipolar Disorder,Mood Swings,Depression,Mania,Insomnia
+Schizophrenia,Hearing Voices,Disorganized Speech,Hallucinations,Delusions
+Obsessive-Compulsive Disorder,Repetitive Thoughts,Compulsive Behavior,Anxiety,Intrusive Thoughts
+Post-Traumatic Stress Disorder,Flashbacks,Anxiety,Nightmares,Emotional Distress
+Insomnia,Difficulty Sleeping,Waking Up Early,Fatigue,Concentration Problems
+Sleep Apnea,Loud Snoring,Daytime Sleepiness,Headaches,Choking Sensation

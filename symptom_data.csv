@@ -1,0 +1,5 @@
+"fever","cough","headache","fatigue","stomach_pain","disease"
+"1","1","0","1","0","Flu"
+"1","0","1","1","0","Viral Infection"
+"0","0","1","1","1","Food Poisoning"
+"1","1","1","1","0","COVID-19"

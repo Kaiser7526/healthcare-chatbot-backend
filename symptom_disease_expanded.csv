@@ -1,0 +1,241 @@
+Disease,Symptom1,Symptom2,Symptom3,Symptom4
+Flu,Cough,Fever,Fatigue,Headache
+Flu,Headache,Cough,Fatigue,Fever
+Flu,Fever,Headache,Fatigue,Cough
+Flu,Headache,Fever,Fatigue,Cough
+Flu,Fatigue,Fever,Headache,Cough
+Common Cold,Sneezing,Cough,Sore Throat,Runny Nose
+Common Cold,Runny Nose,Sneezing,Sore Throat,Cough
+Common Cold,Runny Nose,Sneezing,Cough,Sore Throat
+Common Cold,Sneezing,Cough,Sore Throat,Runny Nose
+Common Cold,Sneezing,Runny Nose,Sore Throat,Cough
+COVID-19,Cough,Shortness of Breath,Fever,Fatigue
+COVID-19,Fever,Cough,Shortness of Breath,Fatigue
+COVID-19,Fever,Fatigue,Cough,Shortness of Breath
+COVID-19,Shortness of Breath,Cough,Fatigue,Fever
+COVID-19,Fever,Cough,Shortness of Breath,Fatigue
+Pneumonia,Fever,Chest Pain,Cough,Shortness of Breath
+Pneumonia,Shortness of Breath,Fever,Chest Pain,Cough
+Pneumonia,Fever,Cough,Chest Pain,Shortness of Breath
+Pneumonia,Fever,Shortness of Breath,Chest Pain,Cough
+Pneumonia,Cough,Fever,Chest Pain,Shortness of Breath
+Bronchitis,Cough,Sore Throat,Fatigue,Chest Discomfort
+Bronchitis,Sore Throat,Chest Discomfort,Cough,Fatigue
+Bronchitis,Chest Discomfort,Fatigue,Cough,Sore Throat
+Bronchitis,Cough,Fatigue,Sore Throat,Chest Discomfort
+Bronchitis,Sore Throat,Chest Discomfort,Cough,Fatigue
+Asthma,Shortness of Breath,Wheezing,Chest Tightness,Cough
+Asthma,Chest Tightness,Shortness of Breath,Cough,Wheezing
+Asthma,Chest Tightness,Cough,Wheezing,Shortness of Breath
+Asthma,Chest Tightness,Shortness of Breath,Cough,Wheezing
+Asthma,Wheezing,Cough,Shortness of Breath,Chest Tightness
+Migraine,Light Sensitivity,Dizziness,Headache,Nausea
+Migraine,Nausea,Light Sensitivity,Dizziness,Headache
+Migraine,Nausea,Light Sensitivity,Headache,Dizziness
+Migraine,Nausea,Light Sensitivity,Headache,Dizziness
+Migraine,Headache,Nausea,Light Sensitivity,Dizziness
+Hypertension,Blurred Vision,Dizziness,Fatigue,Headache
+Hypertension,Blurred Vision,Headache,Dizziness,Fatigue
+Hypertension,Dizziness,Blurred Vision,Fatigue,Headache
+Hypertension,Fatigue,Blurred Vision,Headache,Dizziness
+Hypertension,Blurred Vision,Headache,Dizziness,Fatigue
+Heart Attack,Chest Pain,Sweating,Shortness of Breath,Nausea
+Heart Attack,Nausea,Sweating,Shortness of Breath,Chest Pain
+Heart Attack,Shortness of Breath,Nausea,Chest Pain,Sweating
+Heart Attack,Nausea,Chest Pain,Shortness of Breath,Sweating
+Heart Attack,Chest Pain,Nausea,Sweating,Shortness of Breath
+Diabetes,Increased Thirst,Frequent Urination,Fatigue,Weight Loss
+Diabetes,Weight Loss,Fatigue,Increased Thirst,Frequent Urination
+Diabetes,Weight Loss,Increased Thirst,Fatigue,Frequent Urination
+Diabetes,Increased Thirst,Weight Loss,Fatigue,Frequent Urination
+Diabetes,Increased Thirst,Frequent Urination,Weight Loss,Fatigue
+Hyperthyroidism,Weight Loss,Increased Appetite,Rapid Heart Rate,Anxiety
+Hyperthyroidism,Rapid Heart Rate,Anxiety,Weight Loss,Increased Appetite
+Hyperthyroidism,Weight Loss,Increased Appetite,Rapid Heart Rate,Anxiety
+Hyperthyroidism,Anxiety,Rapid Heart Rate,Weight Loss,Increased Appetite
+Hyperthyroidism,Increased Appetite,Weight Loss,Anxiety,Rapid Heart Rate
+Hypothyroidism,Dry Skin,Weight Gain,Cold Sensitivity,Fatigue
+Hypothyroidism,Cold Sensitivity,Fatigue,Weight Gain,Dry Skin
+Hypothyroidism,Fatigue,Cold Sensitivity,Weight Gain,Dry Skin
+Hypothyroidism,Dry Skin,Fatigue,Weight Gain,Cold Sensitivity
+Hypothyroidism,Weight Gain,Dry Skin,Fatigue,Cold Sensitivity
+Gastroenteritis,Fever,Abdominal Pain,Diarrhea,Vomiting
+Gastroenteritis,Fever,Vomiting,Abdominal Pain,Diarrhea
+Gastroenteritis,Diarrhea,Abdominal Pain,Vomiting,Fever
+Gastroenteritis,Abdominal Pain,Fever,Diarrhea,Vomiting
+Gastroenteritis,Diarrhea,Abdominal Pain,Vomiting,Fever
+Food Poisoning,Nausea,Stomach Pain,Diarrhea,Vomiting
+Food Poisoning,Vomiting,Diarrhea,Nausea,Stomach Pain
+Food Poisoning,Stomach Pain,Vomiting,Diarrhea,Nausea
+Food Poisoning,Nausea,Vomiting,Diarrhea,Stomach Pain
+Food Poisoning,Nausea,Stomach Pain,Diarrhea,Vomiting
+Irritable Bowel Syndrome,Diarrhea,Constipation,Bloating,Abdominal Pain
+Irritable Bowel Syndrome,Constipation,Abdominal Pain,Diarrhea,Bloating
+Irritable Bowel Syndrome,Abdominal Pain,Diarrhea,Constipation,Bloating
+Irritable Bowel Syndrome,Abdominal Pain,Diarrhea,Bloating,Constipation
+Irritable Bowel Syndrome,Abdominal Pain,Diarrhea,Constipation,Bloating
+Urinary Tract Infection,Pelvic Pain,Frequent Urination,Fever,Burning Urination
+Urinary Tract Infection,Burning Urination,Fever,Frequent Urination,Pelvic Pain
+Urinary Tract Infection,Pelvic Pain,Burning Urination,Frequent Urination,Fever
+Urinary Tract Infection,Fever,Burning Urination,Pelvic Pain,Frequent Urination
+Urinary Tract Infection,Frequent Urination,Pelvic Pain,Burning Urination,Fever
+Kidney Infection,Nausea,Fever,Back Pain,Painful Urination
+Kidney Infection,Back Pain,Fever,Painful Urination,Nausea
+Kidney Infection,Painful Urination,Nausea,Fever,Back Pain
+Kidney Infection,Fever,Nausea,Back Pain,Painful Urination
+Kidney Infection,Fever,Back Pain,Painful Urination,Nausea
+Gallstones,Indigestion,Nausea,Jaundice,Abdominal Pain
+Gallstones,Nausea,Indigestion,Jaundice,Abdominal Pain
+Gallstones,Abdominal Pain,Indigestion,Jaundice,Nausea
+Gallstones,Jaundice,Nausea,Abdominal Pain,Indigestion
+Gallstones,Nausea,Jaundice,Abdominal Pain,Indigestion
+Hepatitis,Abdominal Pain,Jaundice,Nausea,Fatigue
+Hepatitis,Nausea,Abdominal Pain,Fatigue,Jaundice
+Hepatitis,Abdominal Pain,Jaundice,Nausea,Fatigue
+Hepatitis,Nausea,Jaundice,Abdominal Pain,Fatigue
+Hepatitis,Abdominal Pain,Nausea,Jaundice,Fatigue
+Liver Disease,Swelling in Legs,Abdominal Pain,Jaundice,Fatigue
+Liver Disease,Abdominal Pain,Fatigue,Jaundice,Swelling in Legs
+Liver Disease,Swelling in Legs,Abdominal Pain,Jaundice,Fatigue
+Liver Disease,Fatigue,Swelling in Legs,Abdominal Pain,Jaundice
+Liver Disease,Abdominal Pain,Jaundice,Fatigue,Swelling in Legs
+Dengue Fever,Skin Rash,Severe Headache,Joint Pain,High Fever
+Dengue Fever,Joint Pain,Severe Headache,Skin Rash,High Fever
+Dengue Fever,High Fever,Skin Rash,Severe Headache,Joint Pain
+Dengue Fever,Skin Rash,High Fever,Joint Pain,Severe Headache
+Dengue Fever,High Fever,Severe Headache,Skin Rash,Joint Pain
+Malaria,Sweating,High Fever,Muscle Pain,Chills
+Malaria,Chills,Sweating,High Fever,Muscle Pain
+Malaria,Sweating,Chills,High Fever,Muscle Pain
+Malaria,Chills,Sweating,Muscle Pain,High Fever
+Malaria,Muscle Pain,Sweating,High Fever,Chills
+Tuberculosis,Chest Pain,Cough,Weight Loss,Fatigue
+Tuberculosis,Cough,Fatigue,Weight Loss,Chest Pain
+Tuberculosis,Fatigue,Weight Loss,Cough,Chest Pain
+Tuberculosis,Weight Loss,Cough,Fatigue,Chest Pain
+Tuberculosis,Cough,Weight Loss,Chest Pain,Fatigue
+Anemia,Dizziness,Shortness of Breath,Fatigue,Pale Skin
+Anemia,Fatigue,Dizziness,Shortness of Breath,Pale Skin
+Anemia,Dizziness,Shortness of Breath,Pale Skin,Fatigue
+Anemia,Fatigue,Shortness of Breath,Pale Skin,Dizziness
+Anemia,Pale Skin,Dizziness,Shortness of Breath,Fatigue
+Leukemia,Bruising,Frequent Infections,Weight Loss,Fatigue
+Leukemia,Bruising,Fatigue,Weight Loss,Frequent Infections
+Leukemia,Weight Loss,Fatigue,Frequent Infections,Bruising
+Leukemia,Fatigue,Bruising,Frequent Infections,Weight Loss
+Leukemia,Frequent Infections,Fatigue,Weight Loss,Bruising
+Lung Cancer,Chest Pain,Weight Loss,Chronic Cough,Shortness of Breath
+Lung Cancer,Weight Loss,Chest Pain,Shortness of Breath,Chronic Cough
+Lung Cancer,Shortness of Breath,Chest Pain,Weight Loss,Chronic Cough
+Lung Cancer,Chest Pain,Chronic Cough,Shortness of Breath,Weight Loss
+Lung Cancer,Shortness of Breath,Chronic Cough,Weight Loss,Chest Pain
+Skin Cancer,Itching,Bleeding,Unusual Mole,Skin Lesion
+Skin Cancer,Bleeding,Unusual Mole,Skin Lesion,Itching
+Skin Cancer,Itching,Unusual Mole,Skin Lesion,Bleeding
+Skin Cancer,Itching,Unusual Mole,Skin Lesion,Bleeding
+Skin Cancer,Unusual Mole,Itching,Skin Lesion,Bleeding
+Breast Cancer,Pain in Breast,Swelling,Breast Lump,Nipple Discharge
+Breast Cancer,Swelling,Nipple Discharge,Breast Lump,Pain in Breast
+Breast Cancer,Pain in Breast,Nipple Discharge,Breast Lump,Swelling
+Breast Cancer,Swelling,Nipple Discharge,Pain in Breast,Breast Lump
+Breast Cancer,Pain in Breast,Nipple Discharge,Swelling,Breast Lump
+Prostate Cancer,Frequent Urination,Blood in Urine,Pelvic Pain,Weak Urine Stream
+Prostate Cancer,Pelvic Pain,Blood in Urine,Weak Urine Stream,Frequent Urination
+Prostate Cancer,Blood in Urine,Frequent Urination,Pelvic Pain,Weak Urine Stream
+Prostate Cancer,Weak Urine Stream,Pelvic Pain,Blood in Urine,Frequent Urination
+Prostate Cancer,Weak Urine Stream,Frequent Urination,Pelvic Pain,Blood in Urine
+Osteoarthritis,Joint Pain,Limited Movement,Stiffness,Swelling
+Osteoarthritis,Limited Movement,Joint Pain,Stiffness,Swelling
+Osteoarthritis,Stiffness,Limited Movement,Swelling,Joint Pain
+Osteoarthritis,Swelling,Stiffness,Limited Movement,Joint Pain
+Osteoarthritis,Joint Pain,Stiffness,Swelling,Limited Movement
+Rheumatoid Arthritis,Joint Pain,Stiffness,Fatigue,Swelling
+Rheumatoid Arthritis,Joint Pain,Fatigue,Stiffness,Swelling
+Rheumatoid Arthritis,Swelling,Joint Pain,Fatigue,Stiffness
+Rheumatoid Arthritis,Stiffness,Joint Pain,Fatigue,Swelling
+Rheumatoid Arthritis,Swelling,Joint Pain,Fatigue,Stiffness
+Psoriasis,Itching,Red Patches,Scaly Skin,Burning Sensation
+Psoriasis,Burning Sensation,Scaly Skin,Itching,Red Patches
+Psoriasis,Burning Sensation,Itching,Red Patches,Scaly Skin
+Psoriasis,Burning Sensation,Scaly Skin,Red Patches,Itching
+Psoriasis,Red Patches,Burning Sensation,Itching,Scaly Skin
+Eczema,Rash,Itchy Skin,Redness,Dry Skin
+Eczema,Redness,Dry Skin,Rash,Itchy Skin
+Eczema,Redness,Rash,Dry Skin,Itchy Skin
+Eczema,Dry Skin,Redness,Itchy Skin,Rash
+Eczema,Itchy Skin,Dry Skin,Redness,Rash
+Allergic Rhinitis,Nasal Congestion,Runny Nose,Sneezing,Itchy Eyes
+Allergic Rhinitis,Nasal Congestion,Itchy Eyes,Sneezing,Runny Nose
+Allergic Rhinitis,Sneezing,Itchy Eyes,Nasal Congestion,Runny Nose
+Allergic Rhinitis,Runny Nose,Nasal Congestion,Sneezing,Itchy Eyes
+Allergic Rhinitis,Runny Nose,Sneezing,Nasal Congestion,Itchy Eyes
+Sinusitis,Facial Pain,Nasal Congestion,Cough,Headache
+Sinusitis,Facial Pain,Nasal Congestion,Cough,Headache
+Sinusitis,Headache,Nasal Congestion,Cough,Facial Pain
+Sinusitis,Facial Pain,Headache,Nasal Congestion,Cough
+Sinusitis,Headache,Facial Pain,Cough,Nasal Congestion
+Vertigo,Loss of Balance,Dizziness,Nausea,Ringing in Ears
+Vertigo,Nausea,Ringing in Ears,Dizziness,Loss of Balance
+Vertigo,Ringing in Ears,Dizziness,Nausea,Loss of Balance
+Vertigo,Loss of Balance,Nausea,Dizziness,Ringing in Ears
+Vertigo,Nausea,Loss of Balance,Dizziness,Ringing in Ears
+Epilepsy,Muscle Stiffness,Confusion,Loss of Consciousness,Seizures
+Epilepsy,Muscle Stiffness,Confusion,Loss of Consciousness,Seizures
+Epilepsy,Loss of Consciousness,Seizures,Muscle Stiffness,Confusion
+Epilepsy,Muscle Stiffness,Seizures,Confusion,Loss of Consciousness
+Epilepsy,Confusion,Muscle Stiffness,Seizures,Loss of Consciousness
+Parkinson’s Disease,Balance Issues,Slow Movement,Stiff Muscles,Tremors
+Parkinson’s Disease,Tremors,Slow Movement,Stiff Muscles,Balance Issues
+Parkinson’s Disease,Stiff Muscles,Slow Movement,Tremors,Balance Issues
+Parkinson’s Disease,Stiff Muscles,Balance Issues,Slow Movement,Tremors
+Parkinson’s Disease,Balance Issues,Stiff Muscles,Slow Movement,Tremors
+Alzheimer’s Disease,Difficulty Speaking,Personality Changes,Confusion,Memory Loss
+Alzheimer’s Disease,Confusion,Personality Changes,Difficulty Speaking,Memory Loss
+Alzheimer’s Disease,Difficulty Speaking,Memory Loss,Personality Changes,Confusion
+Alzheimer’s Disease,Memory Loss,Personality Changes,Confusion,Difficulty Speaking
+Alzheimer’s Disease,Difficulty Speaking,Personality Changes,Memory Loss,Confusion
+Stroke,Slurred Speech,Severe Headache,Loss of Balance,Sudden Weakness
+Stroke,Loss of Balance,Sudden Weakness,Severe Headache,Slurred Speech
+Stroke,Sudden Weakness,Severe Headache,Slurred Speech,Loss of Balance
+Stroke,Slurred Speech,Loss of Balance,Sudden Weakness,Severe Headache
+Stroke,Severe Headache,Slurred Speech,Loss of Balance,Sudden Weakness
+Depression,Low Mood,Loss of Interest,Suicidal Thoughts,Fatigue
+Depression,Fatigue,Suicidal Thoughts,Loss of Interest,Low Mood
+Depression,Suicidal Thoughts,Low Mood,Loss of Interest,Fatigue
+Depression,Low Mood,Fatigue,Suicidal Thoughts,Loss of Interest
+Depression,Loss of Interest,Fatigue,Suicidal Thoughts,Low Mood
+Anxiety Disorder,Rapid Heart Rate,Excessive Worry,Sweating,Restlessness
+Anxiety Disorder,Sweating,Rapid Heart Rate,Restlessness,Excessive Worry
+Anxiety Disorder,Sweating,Restlessness,Excessive Worry,Rapid Heart Rate
+Anxiety Disorder,Rapid Heart Rate,Sweating,Restlessness,Excessive Worry
+Anxiety Disorder,Excessive Worry,Restlessness,Sweating,Rapid Heart Rate
+Bipolar Disorder,Depression,Insomnia,Mania,Mood Swings
+Bipolar Disorder,Insomnia,Depression,Mania,Mood Swings
+Bipolar Disorder,Depression,Mood Swings,Mania,Insomnia
+Bipolar Disorder,Insomnia,Depression,Mood Swings,Mania
+Bipolar Disorder,Mood Swings,Depression,Mania,Insomnia
+Schizophrenia,Delusions,Hallucinations,Disorganized Speech,Hearing Voices
+Schizophrenia,Hearing Voices,Delusions,Hallucinations,Disorganized Speech
+Schizophrenia,Disorganized Speech,Hearing Voices,Hallucinations,Delusions
+Schizophrenia,Delusions,Hearing Voices,Hallucinations,Disorganized Speech
+Schizophrenia,Hallucinations,Delusions,Hearing Voices,Disorganized Speech
+Obsessive-Compulsive Disorder,Intrusive Thoughts,Compulsive Behavior,Anxiety,Repetitive Thoughts
+Obsessive-Compulsive Disorder,Intrusive Thoughts,Anxiety,Repetitive Thoughts,Compulsive Behavior
+Obsessive-Compulsive Disorder,Repetitive Thoughts,Anxiety,Intrusive Thoughts,Compulsive Behavior
+Obsessive-Compulsive Disorder,Compulsive Behavior,Anxiety,Repetitive Thoughts,Intrusive Thoughts
+Obsessive-Compulsive Disorder,Repetitive Thoughts,Compulsive Behavior,Intrusive Thoughts,Anxiety
+Post-Traumatic Stress Disorder,Nightmares,Flashbacks,Anxiety,Emotional Distress
+Post-Traumatic Stress Disorder,Emotional Distress,Anxiety,Flashbacks,Nightmares
+Post-Traumatic Stress Disorder,Emotional Distress,Anxiety,Nightmares,Flashbacks
+Post-Traumatic Stress Disorder,Flashbacks,Nightmares,Emotional Distress,Anxiety
+Post-Traumatic Stress Disorder,Flashbacks,Emotional Distress,Anxiety,Nightmares
+Insomnia,Concentration Problems,Difficulty Sleeping,Fatigue,Waking Up Early
+Insomnia,Concentration Problems,Fatigue,Difficulty Sleeping,Waking Up Early
+Insomnia,Waking Up Early,Concentration Problems,Difficulty Sleeping,Fatigue
+Insomnia,Fatigue,Difficulty Sleeping,Waking Up Early,Concentration Problems
+Insomnia,Difficulty Sleeping,Waking Up Early,Concentration Problems,Fatigue
+Sleep Apnea,Daytime Sleepiness,Choking Sensation,Loud Snoring,Headaches
+Sleep Apnea,Loud Snoring,Headaches,Daytime Sleepiness,Choking Sensation
+Sleep Apnea,Loud Snoring,Choking Sensation,Daytime Sleepiness,Headaches
+Sleep Apnea,Daytime Sleepiness,Choking Sensation,Headaches,Loud Snoring
+Sleep Apnea,Choking Sensation,Daytime Sleepiness,Headaches,Loud Snoring
